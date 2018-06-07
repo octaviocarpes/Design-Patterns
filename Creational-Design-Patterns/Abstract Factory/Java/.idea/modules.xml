@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory_main.iml" group="abstract-factory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory_test.iml" group="abstract-factory" />
+    </modules>
+  </component>
+</project>
